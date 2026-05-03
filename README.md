@@ -2,6 +2,8 @@
 
 A modern, accessible web application designed to guide voters through the election process step-by-step and answer their questions using an AI assistant. Built with Next.js, Tailwind CSS, and the Gemini API.
 
+LIVE LINK ::---      https://election-assistant-mljp060jh-rakesh-kumars-projects-76c96df6.vercel.app/
+
 ## Features
 
 - **Interactive Roadmap**: A visual guide covering Registration, Verification, Polling, and Counting.
